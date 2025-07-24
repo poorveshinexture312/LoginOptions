@@ -8,15 +8,15 @@ A complete **Flutter demo** showcasing **multiple authentication flows** with fo
 
 This demo includes the following login combinations:
 
-| Method | Route |
-|--------|-------|
-| ✅ Username + Password | `/USERNAME_PASSWORD` |
-| ✅ Mobile Number + Password | `/MOBILE_PASSWORD` |
-| ✅ Country Code + Mobile Number + Password | `/COUNTRY_MOBILE_PASSWORD` |
-| ✅ Email + Password | `/EMAIL_PASSWORD` |
-| ✅ Mobile + OTP | `/MOBILE_OTP` |
-| ✅ Country Code + Mobile + OTP | `/COUNTRY_MOBILE_OTP` |
-| ✅ Email + OTP | `/EMAIL_OTP` |
+| Method |
+|--------|
+| ✅ Username + Password |
+| ✅ Mobile Number + Password |
+| ✅ Country Code + Mobile Number + Password |
+| ✅ Email + Password |
+| ✅ Mobile + OTP |
+| ✅ Country Code + Mobile + OTP |
+| ✅ Email + OTP |
 
 All forms include basic validation (e.g., empty check, email format, phone validation).
 
